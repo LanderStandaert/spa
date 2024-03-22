@@ -1,0 +1,26 @@
+SHORT TERM
+
+write BSG for polar_data
+write BSG for hpv_data
+connect API of polar
+connect google sheets
+
+
+HACKATON
+
+Optimise code
+	where are bottlenecks?
+	how to structure ETL (schedule?)
+	how to ingest data in a flexible manner?
+
+Data ingestion?
+	how to enfore date input format ?
+	how do users input data?
+	how do we minimise the errors users make in data input?
+
+Optimise database
+	how to structure database (star schema)?
+	how do we work with keys and foreign keys?
+
+Visualisations
+	how do we create a unique view per end_user (e.g: trainer U-15 only U-15 view)

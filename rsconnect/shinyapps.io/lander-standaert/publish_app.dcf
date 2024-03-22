@@ -1,0 +1,12 @@
+name: publish_app
+title: publish_app
+username:
+account: lander-standaert
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9499561
+bundleId: 8121055
+url: https://lander-standaert.shinyapps.io/publish_app/
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: performanceModule/app.R|performanceModule/yoyo_test.R|TODO.txt
